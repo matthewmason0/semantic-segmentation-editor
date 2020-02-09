@@ -9,17 +9,18 @@
       "objects": [
         {
           "label": "VOID",
-          "color": "#CFCFCF"
+          "color": "#CFCFCF",
+          "icon": "Numeric0"
         },
         {
           "label": "Rock",
           "color": "#87D8FF",
-          "icon": "ChevronUp"
+          "icon": "Numeric1"
         },
         {
           "label": "Crater",
           "color": "#FFA859",
-          "icon": "ChevronDown"
+          "icon": "Numeric2"
         }
       ]
     }
