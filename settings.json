@@ -8,19 +8,19 @@
       "name": "Astrobotics",
       "objects": [
         {
-          "label": "VOID",
+          "label": "0 - VOID",
           "color": "#CFCFCF",
-          "icon": "Numeric0"
+          "icon": "BorderNoneVariant"
         },
         {
-          "label": "Rock",
+          "label": "1 - Rock",
           "color": "#87D8FF",
-          "icon": "Numeric1"
+          "icon": "ChevronDown"
         },
         {
-          "label": "Crater",
+          "label": "2 - Crater",
           "color": "#FFA859",
-          "icon": "Numeric2"
+          "icon": "ChevronUp"
         }
       ]
     }
